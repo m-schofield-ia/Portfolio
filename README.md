@@ -1,2 +1,7 @@
 # Portfolio
-Stuff I've made during the years ....
+
+This is my portfolio repository. It is basically a timeline of the stuff I've created during the years.
+
+The portfolio contains the following sections:
+
+  * [Commodore 64](C64/)
