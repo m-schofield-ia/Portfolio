@@ -28,7 +28,7 @@ The programs are written in _c_ and some of the programs have a desktop companio
 [![Recal](img/p-recal.png)](recal/)
 [![Simplify](img/p-simplify.png)](simplify/)
 [![Tasks Sort](img/p-taskssort.png)](taskssort/)
-[![Trams for Palm OS](img/p-tramsforpalmos.png)](tramsforpalmos/)
+[![Trams for Palm OS](img/p-tramsforpalmos.png)](TramsforPalmOS/)
 [![Yet Another Document Reader](img/p-yadr.png)](yadr/)
 
 Without screenshots:
