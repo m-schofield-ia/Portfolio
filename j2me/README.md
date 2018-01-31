@@ -21,4 +21,4 @@ Without screenshots:
 * [Eyes](Eyes/)
 * [P4 Remote](P4Remote/)
 * [Tic Tac Toe](TicTacToe/)
-* [Yrthwyrm 2](Yrthwyrm2/)
+* [YrthWyrm 2](YrthWyrm2/)
