@@ -5,6 +5,8 @@ J2ME programs are written in Java. The _Build Tools_ folder contains some of the
 
 Yuuuup - been there, done that!
 
+(Click on the image to go to the source code :-)
+
 [![@Tracker](img/attracker.png)](atTracker/)
 [![5 km](img/5km.png)](5km/)
 [![Juggle](img/juggle.png)](Juggle/)
@@ -15,8 +17,8 @@ Yuuuup - been there, done that!
 
 Without screenshots:
 
-* [Build Tools](buildtools/)
-* [Eyes](eyes/)
+* [Build Tools](BuildTools/)
+* [Eyes](Eyes/)
 * [P4 Remote](P4Remote/)
 * [Tic Tac Toe](TicTacToe/)
 * [Yrthwyrm 2](Yrthwyrm2/)
