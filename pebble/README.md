@@ -28,7 +28,7 @@ Probably only for me.
 
 Go to [esignatur Watchface V2 source code](esignaturWatchfaceV2/).
 
-![Watchface](img/esignaturWatchfaceV2-1.png)
+![Watchface](img/esignaturwatchfacev2-1.png)
 
 ## First 5km
 Run program for your first 5km.
