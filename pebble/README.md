@@ -101,10 +101,10 @@ Go to [Whip source code](Whip/).
 ## ww Timer
 Egg timer and stopwatch in one app.
 
+Go to [ww Timer source code](wwTimer/).
+
 ![Menu](img/wwtimer-1.png)
 ![Set Eggtimer](img/wwtimer-2.png)
 ![Countdown!](img/wwtimer-3.png)
 ![Clock Is Ticking](img/wwtimer-4.png)
 ![All Breakpoints](img/wwtimer-5.png)
-
-Go to [ww Timer source code](wwTimer/).
