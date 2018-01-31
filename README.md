@@ -6,4 +6,5 @@ The portfolio contains the following sections:
 
   * [Amiga](amiga/)
   * [Commodore 64](c64/)
+  * [J2ME](j2me/)
   * [Palm OS](palmos/)
