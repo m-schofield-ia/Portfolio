@@ -8,3 +8,7 @@ The portfolio contains the following sections:
   * [Commodore 64](c64/)
   * [J2ME](j2me/)
   * [Palm OS](palmos/)
+
+If you fancy any of the source code grab yourself a copy. All source code has been released under the MIT license.
+
+Have fun.

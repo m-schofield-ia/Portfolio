@@ -4,6 +4,8 @@ The period where I developed for the Palm OS is probably my most active period. 
 
 The programs are written in _c_ and some of the programs have a desktop companion conduit written in _c++_ (-ish).
 
+(Click on the image to go to the source code :-)
+
 [![@Tracker](img/p-attracker.png)](attracker/)
 [![Angles](img/p-angles.png)](angles/)
 [![BMILog](img/p-bmilog.png)](bmilog/)
