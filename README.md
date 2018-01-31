@@ -5,6 +5,7 @@ This is my portfolio repository. It is basically a timeline of the stuff I've cr
 The portfolio contains the following sections:
 
   * [Amiga](amiga/)
+  * [Android](android/)
   * [Commodore 64](c64/)
   * [iOS](ios/)
   * [J2ME](j2me/)
