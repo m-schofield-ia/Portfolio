@@ -3,7 +3,7 @@
 The Pebble Smartwatch was a totally awesome smartwatch and I created a couple of apps for it.
 The apps are written in _c_.
 
-All archives contains a compiled _.pbw_ file ready to install to your watch. Some of the apps even contains a companion app for your phone.
+All apps and watchfaces are precompiled, [ready to install](precompiled-pbws/).
 
 ## 10-20-30
 Follow the 10-20-30 run program.
